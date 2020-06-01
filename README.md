@@ -37,7 +37,7 @@ python 3.7
 ## Running the tests
 you can copy the Novel website IP address, and paste on the line 88 :
 ```
-book_url = "your IP address" 
+book_url = "your novel website IP address" 
 ```
 and then you can just run this code to download the novel.However, if you want to try this on your own PC, just make sure you get the correct User-Agent which is in Line 8.
 
